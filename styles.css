@@ -23,7 +23,7 @@ body {
 }
 .position {
   display: flex;
-  justify-content: end;
+  justify-content: space-between;
   align-items: center;
   font-size: medium;
   font-weight: 600;
