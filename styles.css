@@ -1,10 +1,10 @@
 body {
   width: 93%;
   height: 93%;
-  display: flex;
+  display:inline-block;
   flex-direction: column;
   background-color: ivory;
-  align-items: center;
+  vertical-align: middle;
   margin-left: 20px;
   margin-bottom: 20px;
   opacity: 0.8;
