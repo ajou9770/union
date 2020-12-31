@@ -25,7 +25,6 @@ body {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  align-items: center;
   font-size: medium;
   font-weight: 600;
   opacity: 0.9;
