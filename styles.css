@@ -32,3 +32,13 @@ body {
 .mark {
   color: aquamarine
 }
+@keyframes superSexyCoinFlip {
+  from {
+  transform: rotateY(0);
+  }    
+to {
+transform: rotateY(0) translateX(100px);
+}
+img {
+animation: superSexyCoinFlip 5s ease-in-out infinite;
+}
