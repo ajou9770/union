@@ -37,7 +37,8 @@ body {
   transform: rotateY(0);
   }    
 to {
-transform: rotateY(0) translateX(100px);
+transform: rotateY(180) translateX(150px);
+}
 }
 img {
 animation: superSexyCoinFlip 5s ease-in-out infinite;
