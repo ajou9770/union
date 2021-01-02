@@ -43,10 +43,10 @@ body {
   transform: rotateX(180deg) translateX(0);
 }
 50% {
-  transform: rotateX(360deg) translateX(180px);
+  transform: rotateX(360deg) translateX(190px);
 }
 75% {
-  transform: rotateX(90deg) translateX(180px);
+  transform: rotateX(90deg) translateX(190px);
 }
 100% {
   transform: rotateX(0deg) translateX(0);
