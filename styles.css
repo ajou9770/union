@@ -51,3 +51,8 @@ a {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: italic;
 }
+footer {
+  font-size: medium;
+  font-weight: 400;
+  font-family: 'Times New Roman', Times, serif;
+}
