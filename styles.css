@@ -41,11 +41,11 @@ body {
   transform: rotateX(180deg) translateX(0);
 }
 100% {
-  transform: rotateX(360deg) translateX(300px);
+  transform: rotateX(360deg) translateX(200px);
 }
 }
 img {
-animation: superSexyCoinFlip 3s ease-in-out infinite;
+animation: superSexyCoinFlip 5s ease-in-out infinite;
 }
 a {
   font-weight: 700;
