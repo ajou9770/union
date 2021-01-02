@@ -46,3 +46,7 @@ body {
 img {
 animation: superSexyCoinFlip 5s ease-in-out infinite;
 }
+a {
+  font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
