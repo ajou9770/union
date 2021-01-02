@@ -37,7 +37,7 @@ body {
 }
 @keyframes superSexyCoinFlip {
   0% {
-  transform: rotateZ(90);
+  transform: rotateZ(180);
   }    
 50% {
   transform: rotateZ(180deg) translateX(0);
