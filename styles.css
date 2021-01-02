@@ -39,11 +39,17 @@ body {
   0% {
   transform: rotateZ(180);
   }    
-50% {
+25% {
   transform: rotateZ(180deg) translateX(0);
 }
-100% {
+50% {
   transform: rotateZ(360deg) translateX(180px);
+}
+75% {
+  transform: rotateZ(180deg) translateX(180px);
+}
+100% {
+  transform: rotateZ(0deg) translateX(0);
 }
 }
 img {
