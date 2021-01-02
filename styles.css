@@ -37,19 +37,19 @@ body {
 }
 @keyframes superSexyCoinFlip {
   0% {
-  transform: rotateZ(180);
+  transform: rotateX(180);
   }    
 25% {
-  transform: rotateZ(180deg) translateX(0);
+  transform: rotateX(180deg) translateX(0);
 }
 50% {
-  transform: rotateZ(360deg) translateX(180px);
+  transform: rotateX(360deg) translateX(180px);
 }
 75% {
-  transform: rotateZ(90deg) translateX(180px);
+  transform: rotateX(90deg) translateX(180px);
 }
 100% {
-  transform: rotateZ(0deg) translateX(0);
+  transform: rotateX(0deg) translateX(0);
 }
 }
 img {
