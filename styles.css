@@ -46,7 +46,7 @@ body {
   transform: rotateZ(360deg) translateX(180px);
 }
 75% {
-  transform: rotateZ(180deg) translateX(180px);
+  transform: rotateZ(90deg) translateX(180px);
 }
 100% {
   transform: rotateZ(0deg) translateX(0);
