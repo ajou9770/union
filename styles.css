@@ -25,6 +25,7 @@ body {
   width: 100%;
   display: flex;
   justify-content: space-between;
+  margin-top: 20px;
   font-size:large;
   font-weight: 600;
   opacity: 0.9;
