@@ -5,6 +5,7 @@ body {
   flex-direction: column;
   background-color: ivory;
   vertical-align: middle;
+  text-align: justify;
   margin-left: 20px;
   margin-bottom: 20px;
   opacity: 0.8;
