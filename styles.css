@@ -40,7 +40,7 @@ body {
   transform: rotateX(180deg) translateX(0);
 }
 100% {
-  transform: rotateX(3600deg) translateX(300px);
+  transform: rotateX(360deg) translateX(300px);
 }
 }
 img {
