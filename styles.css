@@ -25,13 +25,15 @@ body {
 }
 .second {
   width: 100%;
-  display: flex;
+  display:inline-block;
+  flex-direction: column;
   text-align: left;
   align-items: center;
   height: 12vh;
   background-color: lightblue;
   color: mediumvioletred;
   opacity: 0.9;
+  padding: 20px;
   border-radius: 10px;
   margin-bottom: 15px;
 }
