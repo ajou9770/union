@@ -26,6 +26,7 @@ body {
 .second {
   width: 100%;
   display: flex;
+  flex-direction: column;
   text-align: left;
   align-items: center;
   height: 12vh;
