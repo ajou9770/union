@@ -23,6 +23,18 @@ body {
   border-radius: 10px;
   margin-bottom: 15px;
 }
+.second {
+  width: 100%;
+  display: flex;
+  text-align: left;
+  align-items: center;
+  height: 12vh;
+  background-color: lightblue;
+  color: mediumvioletred;
+  opacity: 0.9;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
 .position {
   width: 100%;
   display: flex;
